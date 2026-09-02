@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: sssp
-  version: "1.1.2"
+  version: 1.1.2
 
 package:
   name: ${{ name|lower }}
